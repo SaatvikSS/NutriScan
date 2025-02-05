@@ -25,10 +25,6 @@
 
 ---
 
-## Installation
-
-To install and run **NutriScan_v5** on your local machine, follow these steps:
-
 ### Prerequisites
 
 1. **Xcode**: Ensure you have the latest version of Xcode installed (minimum version: 14.0).
