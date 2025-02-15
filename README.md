@@ -36,3 +36,8 @@
 
 - **Apple Developer Documentation**: For providing excellent resources and APIs to make iOS development easier.
 - **Swift Community**: For their support, tutorials, and open-source contributions.
+
+📜 License
+🚨 Important Notice: This project is NOT open-source at the moment. You are NOT allowed to copy, distribute, or use this idea, code, or any part of NutriScan without explicit permission.
+
+All rights reserved © 2025 Saatvik Shashank Shrivastava.
